@@ -1,0 +1,52 @@
+img{
+    width: 200px;
+    border-radius: 90px 0 10px 90px;
+    float: left;
+    margin: 3%;
+}
+body {
+    background-color: rgb(241, 232, 219);
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(43, 21, 6);
+    line-height: 1.6;
+    text-align: center;
+    margin: 0;
+}
+
+h2{
+    font-weight: normal;
+    font-style: italic;
+    font-weight: bold;
+}
+h1 {
+    font-style: italic;
+    font-weight: bold;     
+}
+.kontakt {
+    text-align: left;
+    padding: 3%;
+}
+.kontakt h2 {
+    text-decoration: underline;
+}
+.omne{
+    overflow: auto;
+}
+.omne p {
+    margin: 7%;
+}
+.omne h2 {
+    margin: 0;
+}
+header {
+    background-color: tan;
+    margin-top: 0;
+}
+footer {
+    background-color: tan;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+
