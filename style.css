@@ -1,19 +1,37 @@
+<<<<<<< HEAD
+.omne img{
+=======
 img{
+>>>>>>> 25b98f2021ffa83a5246142dae530b9af7c7d7bd
     width: 200px;
     border-radius: 90px 0 10px 90px;
     float: left;
     margin: 3%;
+<<<<<<< HEAD
+    border:0.5px solid rgb(43, 21, 6);
+}
+body {
+    background-color: rgb(241, 232, 219);
+    font-size: 1rem;
+=======
 }
 body {
     background-color: rgb(241, 232, 219);
     font-size: 15px;
+>>>>>>> 25b98f2021ffa83a5246142dae530b9af7c7d7bd
     font-family: 'Montserrat', sans-serif;
     color: rgb(43, 21, 6);
     line-height: 1.6;
     text-align: center;
+<<<<<<< HEAD
+    margin: 0 auto;
+    max-width: 100%;
+}
+=======
     margin: 0;
 }
 
+>>>>>>> 25b98f2021ffa83a5246142dae530b9af7c7d7bd
 h2{
     font-weight: normal;
     font-style: italic;
@@ -21,6 +39,60 @@ h2{
 }
 h1 {
     font-style: italic;
+<<<<<<< HEAD
+    font-weight: bold;       
+}
+.omne{
+    display: flow-root;
+}
+.omne p {
+    margin: 4%;
+}
+.omne h2 {
+    margin: 0;
+    margin-top: 2%;
+}
+header {
+    background-color: tan;
+    padding: 0.2rem;
+}
+footer {
+    background-color: rgb(43, 21, 6);
+    margin-bottom: 0;
+    font-weight: bold;
+    color: white;
+}
+section {
+    border-bottom: 0.5px dashed rgb(43, 21, 6);
+}
+.navigace{
+    background-color:rgb(43, 21, 6);
+    padding: 0.3rem;
+}
+.navigace li {
+    display: inline; 
+    color:rgb(241, 232, 219);
+    background-color:tan;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: 10px 15px;
+    padding: 8px 50px; 
+}
+
+.navigace a:link{
+    color: white;
+}
+.navigace a:visited{
+    color: white;
+}
+.navigace li:hover{
+    background-color:rgb(43, 21, 6);
+}
+.fotogalerie img {
+    width: 30%;
+    border-radius: 5%;
+}
+=======
     font-weight: bold;     
 }
 .kontakt {
@@ -49,4 +121,5 @@ footer {
     font-weight: bold;
 }
 
+>>>>>>> 25b98f2021ffa83a5246142dae530b9af7c7d7bd
 
